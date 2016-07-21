@@ -17,6 +17,17 @@
   },
   "homepage": "https://github.com/alexdresko/tacocat#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "jspm": "^0.16.39"
+  },
+  "dependencies": {
+    "@types/jquery": "^1.10.27",
+    "aurelia-framework": "^1.0.0-rc.1.0.2"
+  },
+  "jspm": {
+    "dependencies": {
+      "aurelia-framework": "npm:aurelia-framework@^1.0.0-rc.1.0.2"
+    },
+    "devDependencies": {}
   }
 }
