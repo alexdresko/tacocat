@@ -1,0 +1,20 @@
+{
+  "name": "workspace",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alex Dresko <me@alexdresko.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexdresko/tacocat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.5"
+  }
+}
